@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 
 /**
- * Created by Matthew Caggiano on 5/10/17.
+ * Created on 5/10/17.
  */
 public class Creeper{
     boolean allowRun;
