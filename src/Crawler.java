@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 
 /**
- * Created by Matthew Caggiano on 5/10/17.
+ * Created on 5/10/17.
  */
 public class Crawler {
 
